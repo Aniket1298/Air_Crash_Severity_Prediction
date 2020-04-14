@@ -20,4 +20,6 @@ Requirements
   
   
   !pip install numpy
+  To Run the jupyter notebook(air_crash.ipynb)
+  download/clown this repository  and open the jupyter notebook in the same folder
   
