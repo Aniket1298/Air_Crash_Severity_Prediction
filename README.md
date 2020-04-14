@@ -7,17 +7,17 @@ Requirements
 
 3.Libraries
 
-  1.numpy
+  3.1 numpy
 
-  2.pandas
+  3.2 pandas
 
-  3.sklearn
+  3.3sklearn
 
-  4.matlplotlib
+  3.4 matlplotlib
 
   
   To install a library write the command below in jupyter notebook
   
   
-  !pip install <library name> 
+  !pip install numpy
   
