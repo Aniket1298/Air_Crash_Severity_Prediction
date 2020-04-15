@@ -1,4 +1,4 @@
-# Air Crash Severity Prediction
+# Airplane Crash Severity Prediction
 
 ## Requirements
 
