@@ -16,16 +16,17 @@
 
 * matlplotlib
 
-## To install a library write the command below in jupyter notebook
-  
-* !pip install library_name
+## To install a library 
+### write the command below 
+
+* !pip install library_name (in jupyter notebook)
 ####   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   or
-* using command line (pip3 install library_name)
+* pip3 install library_name (On command line Prompt)
   
   
 ## To run the jupyter notebook(air_crash.ipynb)
   
   
 * Download/clown this repository 
-* open the jupyter notebook in the same folder and click of run all cells
+* open the jupyter notebook in the same folder and click on run all cells
   
