@@ -1,29 +1,29 @@
 # Air_Crash_Severity_Prediction
-Requirements
+##Requirements
 
-1.Python3+
+*1.Python3+
 
-2.Jupyter 
+*2.Jupyter 
 
-3.Libraries
+*3.Libraries
 
-  3.1 numpy
+**numpy
 
-  3.2 pandas
+**pandas
 
-  3.3sklearn
+**sklearn
 
-  3.4 matlplotlib
+**matlplotlib
 
-  
-  To install a library write the command below in jupyter notebook
-  
-  
-  !pip install numpy
+##To install a library write the command below in jupyter notebook
   
   
-  To Run the jupyter notebook(air_crash.ipynb)
+  *!pip install library_name
   
   
-  download/clown this repository  and open the jupyter notebook in the same folder
+#To run the jupyter notebook(air_crash.ipynb)
+  
+  
+ *download/clown this repository 
+  open the jupyter notebook in the same folder and click of run all cells
   
